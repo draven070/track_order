@@ -1,0 +1,14 @@
+<!--  Cypress Test - Track Your Order | Hamro Mart -->
+
+ <!-- Feature Automated -->
+
+"Track your order" flow from homepage.
+
+ <!-- Setup -->
+
+<!-- bash command-->
+
+git clone https://github.com/draven070/track_order.git
+cd cypress
+npm install
+npx cypress open
