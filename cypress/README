@@ -8,7 +8,7 @@
 
 <!-- bash command-->
 
-git clone 
-cd ecommerce-cypress
+git clone https://github.com/draven070/track_order.git
+cd cypress
 npm install
 npx cypress open
